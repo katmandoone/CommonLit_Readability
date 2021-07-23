@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+assets/
+best/
+data/
+variables/
+saved_model.pb
